@@ -1,2 +1,4 @@
 /_ignore/*
 thumbnail.psd
+__pycache__
+__pycache__/*
